@@ -1,0 +1,1 @@
+namespace CooperativaCarchi { public partial class LibroMayor : LibroContable { protected override bool EsMayor { get { return true; } } } }

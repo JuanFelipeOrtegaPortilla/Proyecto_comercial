@@ -1,0 +1,1 @@
+namespace CooperativaCarchi { public partial class menu { protected global::CooperativaCarchi.PanelModulos Catalogo; } }

@@ -1,0 +1,1 @@
+namespace CooperativaCarchi { public partial class Inicio : PaginaBase { } }
