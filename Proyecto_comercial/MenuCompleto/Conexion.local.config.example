@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<connectionStrings>
+  <add name="Contabilidad" providerName="Npgsql" connectionString="Host=localhost;Port=5432;Database=bd_sistema_contable;Username=postgres;Password=REEMPLAZAR_SOLO_EN_COPIA_LOCAL;Timeout=5;Command Timeout=15" />
+</connectionStrings>

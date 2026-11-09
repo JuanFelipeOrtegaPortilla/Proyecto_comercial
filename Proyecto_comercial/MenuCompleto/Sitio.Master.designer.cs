@@ -1,0 +1,1 @@
+namespace CooperativaCarchi { public partial class Sitio { protected global::System.Web.UI.HtmlControls.HtmlForm form1; protected global::System.Web.UI.WebControls.Button Salir; protected global::System.Web.UI.WebControls.Literal Identidad; protected global::System.Web.UI.WebControls.ContentPlaceHolder Contenido; }}
