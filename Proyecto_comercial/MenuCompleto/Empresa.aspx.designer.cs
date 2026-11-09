@@ -1,0 +1,32 @@
+namespace CooperativaCarchi { public partial class EmpresaPagina {
+protected global::System.Web.UI.WebControls.Label Mensaje;
+protected global::System.Web.UI.WebControls.TextBox IdRegistro;
+protected global::System.Web.UI.WebControls.TextBox Ruc;
+protected global::System.Web.UI.WebControls.TextBox RazonSocial;
+protected global::System.Web.UI.WebControls.TextBox NombreComercial;
+protected global::System.Web.UI.WebControls.TextBox Direccion;
+protected global::System.Web.UI.WebControls.TextBox Telefono;
+protected global::System.Web.UI.WebControls.TextBox Correo;
+protected global::System.Web.UI.WebControls.TextBox Representante;
+protected global::System.Web.UI.WebControls.TextBox FechaRegistro;
+protected global::System.Web.UI.WebControls.CheckBox Activo;
+protected global::System.Web.UI.WebControls.Button Nuevo;
+protected global::System.Web.UI.WebControls.Button Guardar;
+protected global::System.Web.UI.WebControls.Button Actualizar;
+protected global::System.Web.UI.WebControls.Button Eliminar;
+protected global::System.Web.UI.WebControls.Button LimpiarBoton;
+protected global::System.Web.UI.WebControls.TextBox Buscar;
+protected global::System.Web.UI.WebControls.Button BuscarBoton;
+protected global::System.Web.UI.WebControls.GridView Tabla;
+protected global::System.Web.UI.WebControls.TextBox IdTarifa;
+protected global::System.Web.UI.WebControls.TextBox Porcentaje;
+protected global::System.Web.UI.WebControls.TextBox InicioIVA;
+protected global::System.Web.UI.WebControls.TextBox FinIVA;
+protected global::System.Web.UI.WebControls.TextBox DescripcionIVA;
+protected global::System.Web.UI.WebControls.Button NuevaTarifa;
+protected global::System.Web.UI.WebControls.Button GuardarTarifa;
+protected global::System.Web.UI.WebControls.Button ActualizarTarifa;
+protected global::System.Web.UI.WebControls.Button EliminarTarifa;
+protected global::System.Web.UI.WebControls.Label EmpresaIVA;
+protected global::System.Web.UI.WebControls.GridView Tarifas;
+}}
